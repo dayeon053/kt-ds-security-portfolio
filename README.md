@@ -66,4 +66,3 @@ Hugging Face 모델 메타데이터를 수집하고 requirements.txt, config.jso
 **검증 결과**
 외부 API 연결 실패 시 규칙 기반 분석으로 전환하는 경로를 구현했습니다. 통합 과정에서 모듈별 대체 경로를 연결하고 규칙 기반 분석 경로에서 통합 API 3종의 응답을 확인했습니다.
 
-[개발 브랜치](https://github.com/10502R/AIBOMBOMBass/tree/dev)
